@@ -23,6 +23,8 @@ run in the background.
   markdown_
 - npm: _npm support (we will cover npm later)_
 - npm intellisense: _adds autocompletion for npm modules_
+- Auto close tag: _automatically closes html tags_
+- Auto rename tag: _automatically renames html tags if you change one_
 
 ## Theming and other stuff
 
@@ -50,3 +52,4 @@ run in the background.
   linux installed_
 - Vim: _if you like vim keybindings, install this. if you do not know vim, do
   not install this_
+- Jupyter: _Support for Jupyter notebooks!_
