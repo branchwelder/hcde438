@@ -1,4 +1,4 @@
-# Nonexhaustive List of VSCode Extensions I use!
+# Non-exhaustive List of VSCode Extensions I use!
 
 There are endless possibilities for customizing VSCode. Here are some of the
 extensions I have installed! As a general rule, it's good to understand what an
@@ -10,19 +10,24 @@ run in the background.
 
 ## Useful for HCDE 438
 
-- visual studio intellicode: _AI autocompletion and suggestions_
 - ES7 React/Redux/GraphQL/React-Native snippets: _extension pack that contains
   the best extensions for writing react. you could also install them
   separately._
+- Prettier: _Code formatting for a bunch of web-related languages_
+- Code Spell Checker: _A spell checker that also works for camelCase_
 - Live Server: _Local development server inside VSCode_
 - Path Intellisense - _Autocompletes filenames (useful for importing things)_
+- Path Autocomplete - _autocompletes paths (also useful for importing things)_
 - ESLint: _A linter for javascript_
 - IntelliSense for CSS class names in HTML: _adds autocompletion for your css
   class names_
-- Markdown All In One: _keyboard shortcuts, auto preview, formattting, etc. for
+- Markdown All In One: _keyboard shortcuts, auto preview, formatting, etc. for
   markdown_
 - npm: _npm support (we will cover npm later)_
 - npm intellisense: _adds autocompletion for npm modules_
+- search node modules: _lets you search your gigantic node modules directory_
+- visual studio intellicode: _AI autocompletion and suggestions, works WAY
+  better than I thought it would_
 - Auto close tag: _automatically closes html tags_
 - Auto rename tag: _automatically renames html tags if you change one_
 
