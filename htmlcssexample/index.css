@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+.myButton {
+  padding: 10px 15px;
+  border: 0;
+  border-radius: 5px;
+  background-color: aquamarine;
+}
+
+.purpleButton {
+  background-color: blueviolet;
+  color: white;
+}
+
+.purpleButton:hover {
+  background-color: rgb(68, 20, 112);
+}
+
+.greenButton {
+  background-color: cornflowerblue;
+  color: white;
+  font-style: italic;
+  font-family: sans-serif;
+}
+
+.greenButton:hover {
+  background-color: rgb(0, 88, 0);
+}
